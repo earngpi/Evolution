@@ -1,6 +1,10 @@
-#My First Game: A Simple Evolution Game
+<h1>My First Game: DigiVolution Game</h1>
 
-Player takes on the game as a baby monster and keep evolving to higher forms. Player collects all that is needed for evolutions and upon collecting the last item and evolve to the final form, finishes the game.
+<h3>Summary</h3>
+Player takes on the game as a baby monster, collects all that is needed for evolutions, and evolves to higher forms.
 
-Learning java and coding to do side projects. Feel free to comment on faults or bad practices, it's always a bless to get to learn more. Thanks!
+<h3>To Play</h3>
+Clone the repository. Then, compile GameFrame.java to create GameFrame.class. Finally, run GameFrame.class
+
+
 
